@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 811d678d0b022b1428f3aabe36b65aef
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - materialA: {fileID: 2100000, guid: ca3b473990181284c82dfd4f0fbd7c52, type: 2}
+  - materialB: {fileID: 2100000, guid: fb11103f049d1914ab6fdf4a0d75b636, type: 2}
+  - tile: {fileID: 100000, guid: f8325fef4e2516a428b8e4d9f743fea1, type: 2}
+  - primaryPeace: {fileID: 100000, guid: 6973dc174b14c5240a8f5eac146a495a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
